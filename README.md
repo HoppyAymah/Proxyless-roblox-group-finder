@@ -1,2 +1,2 @@
 # Proxyless-roblox-group-finder
-finds ownerless groups
+make sure to run install and have node.js in order for this tool to work
